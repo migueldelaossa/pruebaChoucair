@@ -8,7 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pruebaChoucair/userinterface/EnterToFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pruebaChoucair/userinterface/EnterToFormPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pruebaChoucair/tasks/FillTheSecondForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pruebaChoucair/tasks/FillTheSecondForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pruebaChoucair/userinterface/UtestSecondFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pruebaChoucair/userinterface/UtestSecondFormPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pruebaChoucair/stepdefinitions/pruebaChoucairStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pruebaChoucair/stepdefinitions/pruebaChoucairStepDefinitions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/prueba.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/prueba.feature" afterDir="false" />
     </list>

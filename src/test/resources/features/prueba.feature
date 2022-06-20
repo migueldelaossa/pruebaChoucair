@@ -7,4 +7,4 @@ Feature: crete user
   Scenario: create a new user
     Given  than Miguel wants to automatize creation of user in utest
     When he fill the information
-    Then he create a new user
+    Then he create a new user Welcome to the world's largest community of freelance software testers!

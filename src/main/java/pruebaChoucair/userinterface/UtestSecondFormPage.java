@@ -16,4 +16,5 @@ public class UtestSecondFormPage extends PageObject {
 
     public static Target BUTTON_NEXT_DEVICES= Target.the("Press button Next:Devices")
             .located(By.xpath("//*[@id=\"regs_container\"]/div/div[2]/div/div[2]/div/form/div[2]/div/a"));
+
 }
