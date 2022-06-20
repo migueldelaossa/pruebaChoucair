@@ -7,6 +7,8 @@ import cucumber.api.java.en.When;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
 import pruebaChoucair.tasks.EnterToTheForm;
+import pruebaChoucair.tasks.FillTheForm;
+import pruebaChoucair.tasks.FillTheSecondForm;
 import pruebaChoucair.tasks.OpenUp;
 
 public class pruebaChoucairStepDefinitions {
@@ -25,6 +27,7 @@ public class pruebaChoucairStepDefinitions {
     @When("^he fill the information$")
     public void heFillTheInformation() {
         // Write code here that turns the phrase above into concrete actions
+        OnStage.theActorInTheSpotlight().attemptsTo(FillTheForm.onThePage());
     }
 
     @Then("^he create a new user$")
