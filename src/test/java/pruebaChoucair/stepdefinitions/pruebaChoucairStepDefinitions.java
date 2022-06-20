@@ -6,6 +6,8 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
+import pruebaChoucair.tasks.EnterToTheForm;
+import pruebaChoucair.tasks.OpenUp;
 
 public class pruebaChoucairStepDefinitions {
 
@@ -17,6 +19,7 @@ public class pruebaChoucairStepDefinitions {
     @Given("^than Miguel wants to automatize creation of user in utest$")
     public void thanMiguelWantsToAutomatizeCreationOfUserInUtest() {
         // Write code here that turns the phrase above into concrete actions
+        OnStage.theActorCalled("Miguel").wasAbleTo(OpenUp.thePage(), EnterToTheForm.onThePage());
     }
 
     @When("^he fill the information$")

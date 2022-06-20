@@ -9,9 +9,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pruebaChoucair/Runners/RunnerTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pruebaChoucair/runners/RunnerTags.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pruebaChoucair/stepDefinitioins/stepDefinitions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/feature/pruebaChoucair.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pruebaChoucair/stepdefinitions/pruebaChoucairStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pruebaChoucair/stepdefinitions/pruebaChoucairStepDefinitions.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +44,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/driver" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pruebaChoucair.tasks" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\LENOVO\IdeaProjects\pruebaChoucair\src\test\resources\driver" />
     </key>
